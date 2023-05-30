@@ -1,2 +1,3 @@
 # Connect 4  AI
- AI that plays Connect 4 
+
+Connect 4 AI created using Python for Advance Python class for Butler Community College
